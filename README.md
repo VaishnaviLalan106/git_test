@@ -82,5 +82,5 @@ The purpose of using AI was to understand the concepts and improve my developmen
 ## Author
 
 - GitHub - VaishnaviLalan106
-- LinkedIn - (linkedin.com/in/vaishnavi-lalan-270419310)
+- LinkedIn - (https://www.linkedin.com/in/vaishnavi-lalan-270419310/)
 - Frontend Mentor - (https://www.frontendmentor.io/profile/VaishnaviLalan106)
