@@ -26,7 +26,7 @@ Frontend Mentor challenges help developers improve their coding skills by buildi
 
 ### Links
 
-- Solution URL: Add your GitHub repository link here
+- Solution URL: (https://github.com/VaishnaviLalan106/git_test.git)
 - Live Site URL: Add your deployed website link here
 
 
@@ -82,5 +82,5 @@ The purpose of using AI was to understand the concepts and improve my developmen
 ## Author
 
 - GitHub - VaishnaviLalan106
-- LinkedIn - Add your LinkedIn profile link
-- Frontend Mentor - Add your Frontend Mentor profile link
+- LinkedIn - (linkedin.com/in/vaishnavi-lalan-270419310)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/VaishnaviLalan106)
