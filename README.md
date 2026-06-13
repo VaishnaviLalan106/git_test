@@ -38,6 +38,7 @@ Frontend Mentor challenges help developers improve their coding skills by buildi
 - Flexbox
 - Responsive Web Design
 - Mobile-first workflow
+- JavaScript DOM Manipulation
 
 
 ## What I Learned
