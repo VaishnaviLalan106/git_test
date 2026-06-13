@@ -27,8 +27,7 @@ Frontend Mentor challenges help developers improve their coding skills by buildi
 ### Links
 
 - Solution URL: (https://github.com/VaishnaviLalan106/git_test.git)
-- Live Site URL: Add your deployed website link here
-
+- Live Site URL: (https://git-test-7pekhzql0-vaishnavi-lalans-projects.vercel.app/)
 
 ## My Process
 
